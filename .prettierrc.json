@@ -1,0 +1,10 @@
+{
+    "parser": "vue",
+    "trailingComma": "all",
+    "plugins": [
+        "prettier-plugin-tailwindcss"
+    ],
+    "semi": false,
+    "singleQuote": true,
+    "singleAttributePerLine": true
+}
